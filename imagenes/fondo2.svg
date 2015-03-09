@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="fondo2.svg"
+   inkscape:export-filename="/home/eder/Dropbox/tmr/imagenes/fondo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="564.25509"
+     inkscape:cy="509.16826"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="960.02373,1187.2765"
+       id="guide2987" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="300,1180.7143"
+       id="guide2989" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="459.61941,828.83016"
+       id="guide2991" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1410,1085.7143"
+       id="guide3018" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1462.1429,727.5"
+       id="guide3020" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="857.61951,1047.5282"
+       id="guide3033" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="289.53497,1037.9317"
+       id="guide3064" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1622.5,980"
+       id="guide3066" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1606.4286,917.14286"
+       id="guide3079" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="745.71429,805.71429"
+       id="guide3065" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.637817)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c2a43;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1461.4286"
+       y="268.60931"
+       id="text2986-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2988-3"
+         x="1461.4286"
+         y="268.60931"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#2c2a43;fill-opacity:1;font-family:Agency FB;-inkscape-font-specification:Agency FB Bold Condensed">Patrocinadores</tspan></text>
+    <path
+       style="fill:#2c2a43;fill-opacity:1;stroke:#2c2a43;stroke-width:1.02444613px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1462.1429,270.90542 146.9286,-0.12627 0,0"
+       id="path2992-3"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3150-7"
+       y="268.44739"
+       x="312.25461"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c2a43;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#2c2a43;fill-opacity:1;font-family:Agency FB;-inkscape-font-specification:Agency FB Bold Condensed"
+         y="268.44739"
+         x="312.25461"
+         id="tspan3152-0"
+         sodipodi:role="line">Patrocinadores</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3154-2"
+       d="m 312.69081,270.38634 146.9286,-0.12627 0,0"
+       style="fill:#2c2a43;fill-opacity:1;stroke:#2c2a43;stroke-width:1.02444613px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

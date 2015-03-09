@@ -1,0 +1,481 @@
+@font-face{
+    font-family: "agencyb";
+    src: url(fuentes/AGENCYB.TTF) ;
+}
+
+@font-face{
+    font-family: "Electromagnetic";
+    src: url(fuentes/Electromagnetic.otf) ;
+}
+
+body {
+    margin: 0;
+    background-image: url(../imagenes/fondo.png);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.contenido {
+    width: 1000px;
+    margin: auto;
+    box-shadow: 0px 0px 50px #333;
+    z-index: 0;
+/*    background-image: url(../imagenes/12.jpg);
+    background-repeat: no-repeat;*/
+}
+
+header {
+    width: 100%;
+    height: 150px;
+    background: rgba(229, 233, 240, .8) ;
+    
+}
+
+.headLeft {
+    float: left;
+    width: 50%;
+    height: 150px;
+    background-image: url(../imagenes/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.titulo1 {
+    width: 80%;
+    display: inline-block; font-family: "DejaVu Sans","Bitstream Vera Sans",sans-serif;
+    color: #71a1fa;
+    font-size: 35px;
+    margin: 0;
+    margin-top: 20px;
+    text-shadow: 0.5px 0.5px 0px rgb(255,255,255,.5);
+    text-align: left;
+    float: left;
+}
+
+.headRight {
+    width: 50%;
+    height: 130px;
+    float: left;
+    text-align: center;
+    margin-top:10px ;
+    
+}
+
+.titulo2 {
+    width: 80%;
+    display: inline-block; font-family: "DejaVu Sans","Bitstream Vera Sans",sans-serif;
+    color: #E5E9F0;
+    font-size: 40px;
+    margin: 0;
+    text-shadow: 0.5px 0.5px 0px rgba(255,255,255,.5);
+    text-align: left;
+    margin: 10px 0px;
+}
+
+menu {
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px groove gray;
+    border-top: 1px groove gray;
+    height: 30px;
+    background: #E5E9F0 ;
+    box-shadow: 0px 9px 1px #333;
+}
+
+.menu{
+    font-size: 10px;
+    display: inline-block;
+    font-family: "DejaVu Sans","Bitstream Vera Sans",sans-serif;
+    color: #333;
+    padding: 0 10px;
+    text-shadow: 1px 1px 1px #AAA;
+    border-right: 1px groove #f2f2f2;
+}
+
+.menu:hover{
+    color: #c4ab83;
+    text-shadow: 1px 1px 0px #333;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    line-height: 30px;
+    font-family: "DejaVu Sans","Bitstream Vera Sans",sans-serif;
+}
+
+.activo {
+    color: #c4ab83;
+    text-shadow: 1px 1px 0px #333;
+    font-family: "DejaVu Sans","Bitstream Vera Sans",sans-serif;
+    font-size: 11px;
+    background: #344969;
+}
+
+section {
+    width: 100%;
+    height: 400px;
+    background: rgba(52, 73, 105,.9); 
+    border-bottom: 2px groove white;
+
+}
+
+.panel1 {
+    width: 60%;
+    height: 400px;
+    float: left;
+    color: white;
+    z-index: 10;
+}
+
+.imgPuma {
+    width: 500px;
+    height: 520px;
+    background-image: url(../imagenes/PumaRig20000.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    float: left;
+    position: absolute;
+   
+}
+
+
+.aside{
+    color: white;
+    width: 92%;
+    margin: auto;
+/*   background: rgb(31, 31, 31);*/
+    background: black;
+    border-radius: 10px;
+    margin-top: 15px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(255,255,255,.5);
+}
+
+.titulo3 {
+    font-family: "Electromagnetic";
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    border-bottom: 1px solid white;
+    width: 80%;
+    text-align: center;
+}
+
+.liAside {
+    color: white;
+    text-shadow: 1px 1px 0px #333;
+    padding: 0px 100px;
+    cursor: pointer;
+    list-style: none;
+    font-size: 14px;
+}
+
+.liAside:hover{
+     color: #c4ab83;
+    text-shadow: 1px 1px 0px white;
+}
+
+
+
+.panel2 {
+    width: 40%;
+    height: 400px;
+    float: left;
+    
+    
+}
+
+.contenidoTexto {
+    width: 95%;
+    margin-top: 10px;
+    color: white;
+    font-family: "Electromagnetic";
+    font-size: 12px;
+    float: right;
+    margin-right: 10px;
+    text-align: justify;
+}
+
+footer {
+    width: 100%;
+    background: #E5E9F0 ;
+}
+
+.footerUp {
+    width: 100%;
+    height: 340px;
+}
+
+.logos {
+    width: 100%;
+    list-style: none;
+    float: right;
+}
+
+.logo1 {
+    float: left;
+    width: 39%;
+    height: 150px;
+    background-image: url(../imagenes/robotica.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-bottom: 10px;
+}
+
+.logo2 {
+    float: left;
+    background-image: url(../imagenes/acatlan.png);
+    width: 30%;
+    height: 130px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-right: solid 3px #333;
+}
+
+.logo3 {
+    width: 30%;
+    height: 130px;
+    float: left;
+    background-image: url(../imagenes/Logo40.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.puma {
+    background-image: url(../imagenes/PumaRig20000.png);
+    background-repeat: no-repeat;
+    width: 600px;
+}
+
+p{
+    font-size: 12px;
+}
+.derechosUp {
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 12px;
+    text-align: center;
+    border-bottom: 1px solid white;
+        font-family: "DejaVu Sans","Bitstream Vera Sans",sans-serif;
+}
+
+.footerDown {
+    width: 100%;
+    float: left;
+    background: #333; 
+    color: white;
+    
+}
+
+.derechosdown {
+    width: 100%;
+    margin: 10;
+    font-size: 11px;
+    text-align: center;
+    font-family: "DejaVu Sans","Bitstream Vera Sans",sans-serif;
+}
+
+
+
+.promo {
+    width: 1400px;
+    height: 1080px;
+    background-image: url(../imagenes/fondo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 10;
+    margin: auto;
+}
+
+html {
+    background:url(../imagenes/patner.jpg);
+    height: auto;
+}
+
+.slider {
+    width: 60%;
+    margin: auto;
+    height:230px;
+    float: left;
+    margin-top: 110px;
+}
+
+.aside2 {
+    color: white;
+    width: 80%;
+    margin: auto;
+   background: rgba(0,0,0,.8);
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.section2 {
+    width: 100%;
+    height: 1750px;
+    background: #344969; 
+}
+
+.tituloCategoria {
+    font-family: "Electromagnetic";
+    text-align: center;
+    border-bottom: 3px groove white;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.tituloCategoria3 {
+    font-family: "Electromagnetic";
+    font-size: 18px;
+    color: #c4ab83;
+    margin-left: 20px;
+    transition: linear .2s all;
+    text-shadow: 1px 1px 0px rgba(0,0,0,.5);
+    
+}
+
+
+
+ul {
+    margin-left: 20px;
+}
+
+.titulocategoria2 {
+    font-family: "Electromagnetic";
+    font-size: 18px;
+    color: #c4ab83;
+    margin-left: 20px;
+    transition: linear .2s all;
+}
+a:visited{
+    text-decoration: none;
+}
+.a{
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+    color: #c4ab83;
+    
+}
+
+.a:hover{
+    text-shadow: 0px 1px 0px rgba(255,255,255,.7)
+}
+.negro {
+    color: #333;
+        
+}
+
+.logoFed {
+    width: 40%;
+    height: 300px;
+    background-image: url(../imagenes/Logotipos_320pxTMR2013.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.80 {
+    width: 70%;
+    float: left;
+}
+
+.20 {
+    width: 20%;
+    float: left;
+    display: inline-block; font-family: "DejaVu Sans","Bitstream Vera Sans",sans-serif;
+    color: #71a1fa;
+    font-size: 35px;
+    margin: 0;
+    margin-top: 20px;
+    text-shadow: 0.5px 0.5px 0px rgb(255,255,255,.5);
+}
+
+.torneoMexicano {
+    width: 100%;
+    height: 140px;
+    background-image: url(../imagenes/torneo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: linear .2s all;
+}
+
+.torneoMexicano:hover{
+    box-shadow: 0px 0px 3px #71a1fa;
+    border-radius: 10px 10px 0px 0px;
+
+}
+.p {
+    font-family: "DejaVu Sans","Bitstream Vera Sans",sans-serif;
+    color: white;
+    font-size: 15px;
+    font-weight: 100%;
+    text-shadow: 1px 1px 0px rgba(0,0,0,.3);
+}
+
+.2 {
+    color:#c4ab83;
+}
+
+
+.efecto {
+    color: white;
+    transition: linear .2s all;
+    
+}
+
+.efecto:hover{
+    text-shadow: 1px 1px 0px #000;
+    width: 300px;
+    border-bottom: 1px solid #c4ab83
+}
+
+video {
+    position: absolute;
+}
+
+.efecto2 {
+    color: #c4ab83;
+    transition: linear .2s all;
+    
+}
+
+.efecto2:hover{
+    text-shadow: 1px 1px 0px #333;
+    width: 300px;
+    border-bottom: 1px solid #c4ab83
+    
+}
+
+th {
+    font-family: "DejaVu Sans","Bitstream Vera Sans",sans-serif;
+    color: white;
+    text-shadow: 1px 1px 0px #333;
+    font-size: 19px;
+    font-weight: 100;
+    padding-top: 30px;
+    border-bottom: 1px solid white;
+    width: 60%
+}
+
+table {
+    margin: auto;
+    width: 65%;
+    text-align: center;
+}
+
+.facebook {
+    background-image: url(../imagenes/facebook-icon.png);
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position:center;
+    display: fixed:
+    
+}
