@@ -6,7 +6,7 @@
     <title>Torneo Mexicano de Robótica 2015</title>
     <link href="css/estilo.css" rel="stylesheet" />
     <link rel="icon" href="imagenes/favicon.ico" />
-     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
       <!-- google analytics -->
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
